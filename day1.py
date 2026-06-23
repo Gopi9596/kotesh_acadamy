@@ -25,4 +25,4 @@ match i:
     case 12:
         print('december')
     case _:
-        print('invalid')
+        print('wrong entry')
